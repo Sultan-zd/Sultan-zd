@@ -10,27 +10,27 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I am a 4th-year engineering student specializing in Cyber Defense and Embedded Telecommunication Systems at ENSA Marrakesh. I combine a strong foundation in offensive security with hands-on experience in defensive operations.
 
-* 🛡️ **Focus Areas:** Penetration Testing, Ethical Hacking, SOC/SIEM operations, and Digital Forensics.
-* 🎯 **CTF Player:** Active participant on Root-Me, TryHackMe, and Hack The Box.
-* 📚 **Currently Studying:** Preparing for the CEH (Certified Ethical Hacker) certification.
-* 🌱 **Looking for:** A technical cybersecurity internship for Summer 2026 to contribute to advanced security audits and threat analysis.
+*  **Focus Areas:** Penetration Testing, Ethical Hacking, SOC/SIEM operations, and Digital Forensics.
+*  **CTF Player:** Active participant on Root-Me, TryHackMe, and Hack The Box.
+*  **Currently Studying:** Preparing for the CEH (Certified Ethical Hacker) certification.
+*  **Looking for:** A technical cybersecurity internship for Summer 2026 to contribute to advanced security audits and threat analysis.
 
 ---
 
-### 🚀 Featured Projects & Experience
+###  Featured Projects & Experience
 
-* 🔍 **[WebVulnScanner](https://github.com/Sultan-zd/WebVulnScanner):** Developed a web vulnerability scanning tool capable of detecting flaws like XSS and SQLi, featuring automated crawling and detailed JSON/CSV reporting.
-* 🛡️ **SIEM & IDS Deployment:** Deployed a Wazuh SIEM and Suricata IDS in a virtual environment, validating the system by simulating attacks from a Kali host.
-* 📊 **Big Data Security Analysis:** Processed high-volume server logs using Hadoop, Hive, and Spark for automated anomaly detection and intrusion detection.
-* 🔐 **[Sec2All](https://github.com/Sultan-zd/Sec2All):** *(Remplacez par une courte description de ce projet de votre GitHub)*.
+*  **[WebVulnScanner](https://github.com/Sultan-zd/WebVulnScanner):** Developed a web vulnerability scanning tool capable of detecting flaws like XSS and SQLi, featuring automated crawling and detailed JSON/CSV reporting.
+*  **SIEM & IDS Deployment:** Deployed a Wazuh SIEM and Suricata IDS in a virtual environment, validating the system by simulating attacks from a Kali host.
+*  **Big Data Security Analysis:** Processed high-volume server logs using Hadoop, Hive, and Spark for automated anomaly detection and intrusion detection.
+*  **[Sec2All](https://github.com/Sultan-zd/Sec2All):** *(Remplacez par une courte description de ce projet de votre GitHub)*.
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 **Security & Forensics**
 <p>
@@ -59,7 +59,7 @@ I am a 4th-year engineering student specializing in Cyber Defense and Embedded T
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sultan-zd&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Sultan's GitHub Stats" width="49%" />
