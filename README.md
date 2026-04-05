@@ -53,13 +53,4 @@ I am a 4th-year engineering student specializing in Cyber Defense and Embedded T
   <img src="https://img.shields.io/badge/Apache_Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
 </p>
 
----
 
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sultan-zd&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Sultan's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultan-zd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
