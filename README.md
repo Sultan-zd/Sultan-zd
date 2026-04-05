@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sultan ZEINEDDINE</h1>
-<h3 align="center">Cybersecurity Engineering Student 🛡️</h3>
+<h3 align="center">Cybersecurity Engineering Student </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sultan-zd&label=Profile+Views&color=0e75b6&style=flat" alt="Sultan-zd Profile Views" />
