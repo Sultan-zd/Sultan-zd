@@ -23,8 +23,7 @@ I am a 4th-year engineering student specializing in Cyber Defense and Embedded T
 ###  Featured Projects & Experience
 
 *  **[WebVulnScanner](https://github.com/Sultan-zd/WebVulnScanner):** Developed a web vulnerability scanning tool capable of detecting flaws like XSS and SQLi, featuring automated crawling and detailed JSON/CSV reporting.
-*  **[Sec2All](https://github.com/Sultan-zd/Sec2All):** *(Remplacez par une courte description de ce projet de votre GitHub)*.
-
+*  **[Sec2All](https://github.com/Sultan-zd/Sec2All):** A comprehensive full-stack security application providing SSL/TLS certificate management and cryptographic services (file encryption, digital signatures, secure QR codes). Built with React, FastAPI, and OpenSSL to simulate an authentic Certification Authority workflow.
 ---
 
 ###  Technical Skills
