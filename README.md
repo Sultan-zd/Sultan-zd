@@ -56,9 +56,11 @@ I am a 4th-year engineering student specializing in Cyber Defense and Embedded T
 
 ---
 
-###  GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sultan-zd&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Sultan's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultan-zd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sultan-zd&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Sultan's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultan-zd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
