@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sultan ZEINEDDINE</h1>
-<h3 align="center">Cyber Defense & Embedded Telecommunication Systems Engineering Student 🛡️</h3>
+<h3 align="center">Cybersecurity Engineering Student 🛡️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sultan-zd&label=Profile+Views&color=0e75b6&style=flat" alt="Sultan-zd Profile Views" />
-  <a href="https://www.linkedin.com/in/VOTRE_PROFIL_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:votre.vrai.email@email.com">
+  <a href="mailto:sultan.zd2021@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -15,44 +12,49 @@
 
 ### 👨‍💻 About Me
 
-I am a 4th-year engineering student with a strong focus on system security, network infrastructure, and embedded systems. I bridge the gap between development and security, advocating for secure-by-design methodologies.
+I am a 4th-year engineering student specializing in Cyber Defense and Embedded Telecommunication Systems at ENSA Marrakesh. I combine a strong foundation in offensive security with hands-on experience in defensive operations.
 
-* 🔐 **Interests:** Security Automation (DevSecOps), Vulnerability Analysis, Penetration Testing, and Artificial Intelligence.
-* 💻 **Currently Building:** Expanding the capabilities of my security tools, **WebVulnScanner** and **Sec2All**.
-* 🌱 **Currently Learning:** Advanced cloud security architecture and AI integration in threat detection.
-* 🤝 **Looking to collaborate on:** Open-source cybersecurity tools and DevSecOps pipelines.
-
----
-
-### 🚀 Featured Projects
-
-* 🛡️ **[WebVulnScanner](https://github.com/Sultan-zd/WebVulnScanner):** *(Remplacez ce texte par une phrase expliquant ce que fait le scanner : ex: A custom vulnerability scanner built with JavaScript...)*
-* 🔒 **[Sec2All](https://github.com/Sultan-zd/Sec2All):** *(Remplacez ce texte par une phrase décrivant ce projet)*
-* ⚙️ **[projet-devsecops](https://github.com/Sultan-zd/projet-devsecops):** *(Remplacez par : Implementation of automated security checks within a CI/CD pipeline using Python...)*
+* 🛡️ **Focus Areas:** Penetration Testing, Ethical Hacking, SOC/SIEM operations, and Digital Forensics.
+* 🎯 **CTF Player:** Active participant on Root-Me, TryHackMe, and Hack The Box.
+* 📚 **Currently Studying:** Preparing for the CEH (Certified Ethical Hacker) certification.
+* 🌱 **Looking for:** A technical cybersecurity internship for Summer 2026 to contribute to advanced security audits and threat analysis.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🚀 Featured Projects & Experience
+
+* 🔍 **[WebVulnScanner](https://github.com/Sultan-zd/WebVulnScanner):** Developed a web vulnerability scanning tool capable of detecting flaws like XSS and SQLi, featuring automated crawling and detailed JSON/CSV reporting.
+* 🛡️ **SIEM & IDS Deployment:** Deployed a Wazuh SIEM and Suricata IDS in a virtual environment, validating the system by simulating attacks from a Kali host.
+* 📊 **Big Data Security Analysis:** Processed high-volume server logs using Hadoop, Hive, and Spark for automated anomaly detection and intrusion detection.
+* 🔐 **[Sec2All](https://github.com/Sultan-zd/Sec2All):** *(Remplacez par une courte description de ce projet de votre GitHub)*.
+
+---
+
+### 🛠️ Technical Skills
+
+**Security & Forensics**
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Palo%20Alto-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto" />
+</p>
 
 **Programming & Scripting**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-**Security, DevOps & Systems**
+**Databases & Big Data**
 <p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-**Web Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
 </p>
 
 ---
