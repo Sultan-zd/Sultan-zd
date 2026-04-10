@@ -3,10 +3,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sultan-zd&label=Profile+Views&color=0e75b6&style=flat" alt="Sultan-zd Profile Views" />
-  <a href="https://www.linkedin.com/in/VOTRE_PROFIL_LINKEDIN/" target="_blank">
+  <a href="www.linkedin.com/in/sultan-zeineddine" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:votre.vrai.email@email.com">
+  <a href="mailto:sultan.zd2021@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
